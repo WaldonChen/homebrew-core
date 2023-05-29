@@ -2,9 +2,9 @@
 
 ## How do I install these formulae?
 
-`brew install waldonchen/taps/<formula>`
+`brew install waldonchen/core/<formula>`
 
-Or `brew tap waldonchen/taps` and then `brew install <formula>`.
+Or `brew tap waldonchen/core` and then `brew install <formula>`.
 
 ## Documentation
 
